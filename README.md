@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @prabhmeharbedi
+- 👋 Hi, I’m @prabhmehar_bedi
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning C Language
 - 📫 prabhmehar2509@gmail.com
 
 <!---
