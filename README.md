@@ -1,3 +1,7 @@
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=prabhmeharbedi&label=Profile%20Views&color=12&icon=5&pretty=false" />
+</a>
+
 [![](https://visitcount.itsvg.in/api?id=prabhmeharbedi&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 - 👋 Hi, I’m @prabhmehar_bedi
 - 👀 I’m interested in Computer Science
