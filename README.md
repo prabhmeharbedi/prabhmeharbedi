@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=prabhmeharbedi&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 - 👋 Hi, I’m @prabhmehar_bedi
 - 👀 I’m interested in Data Science
-- 📫 reach me out - prabhmehar2509@gmail.com
+- 📫 prabhmehar2509@gmail.com
 
 <!---
 prabhmeharbedi/prabhmeharbedi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
