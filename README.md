@@ -1,4 +1,4 @@
-# Prabhmehar Pal Singh Bedi 
+# Prabhmehar Pal Singh Bedi  
 AI/ML enthusiast with expertise in building end-to-end solutions, passionate about innovation, problem-solving, and creating impactful, user-centric applications.
 
 ## 🤖 Generative AI Engineer
