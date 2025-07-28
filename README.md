@@ -1,7 +1,7 @@
 # Prabhmehar Pal Singh Bedi
 AI/ML enthusiast with expertise in building end-to-end solutions, passionate about innovation, problem-solving, and creating impactful, user-centric applications.
 
-## 🤖 AI Engineer 
+## 🤖 Applied AI Engineer 
 Focused on developing intelligent systems that combine deep learning with retrieval augmentation. Currently building production-ready RAG pipelines with LangChain, ChromaDB, and embedding models to help engineering teams reduce development time.
 
 ### 🛠️ Tech Stack
